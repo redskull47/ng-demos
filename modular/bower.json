@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "AngularJS Modular Demo",
   "authors": [
-    "John Papa"
+    "John Papa",
+    "RedGreg"
   ],
   "license": "MIT",
   "homepage": "https://github.com/johnpapa/ng-demos",
